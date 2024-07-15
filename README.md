@@ -6,7 +6,8 @@
 
 <h2> About Me</h2>
 
-
+- 🔭 I’m currently working on **JLPT Master**
+  
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **tvimukthi.m@gmail.com**
